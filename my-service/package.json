@@ -1,0 +1,6 @@
+{
+  "name": "my-service",
+  "devDependencies": {
+    "@vercel/node": "^1.12.1"
+  }
+}

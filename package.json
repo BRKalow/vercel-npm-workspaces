@@ -1,0 +1,23 @@
+{
+  "name": "vercel-npm-workspaces",
+  "version": "1.0.0",
+  "description": "Example of npm workspaces with Vercel serverless functions",
+  "private": true,
+  "workspaces": [
+    "shared",
+    "my-service"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRKalow/vercel-npm-workspaces.git"
+  },
+  "author": "Bryce Kalow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BRKalow/vercel-npm-workspaces/issues"
+  },
+  "homepage": "https://github.com/BRKalow/vercel-npm-workspaces#readme"
+}
