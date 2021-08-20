@@ -1,5 +1,8 @@
 {
   "name": "my-service",
+  "dependencies": {
+    "shared": "file:../shared"
+  },
   "devDependencies": {
     "@vercel/node": "^1.12.1"
   }
